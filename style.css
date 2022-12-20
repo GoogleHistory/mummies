@@ -3,7 +3,7 @@ body {
 }
 
 h1	{
-	color: red;
+	color: blue;
 	font-family: verdana;
 }	
 	
@@ -13,7 +13,7 @@ h2	{
 }
 
 p	{
-	color: blue;
+	color: green;
 	font-family: verdana;
 }
 
@@ -26,7 +26,7 @@ img {
 input {
   background-color: #5FB2A5;
   border: 2px;
-  color: White;
+  color: Green;
   padding: 15px 32px;
   text-align: center;
   font-family: Tahoma, Geneva, sans-serif;
